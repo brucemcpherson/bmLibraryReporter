@@ -1,5 +1,5 @@
 # Google Apps Script Project: bmLibraryReporter
-This repo (bmLibraryReporter) was automatically updated on 10/4/2021, 5:36:28 PM by GasGit
+This repo (bmLibraryReporter) was automatically updated on 2/3/2022, 6:08:09 PM by GasGit
 
 For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
 
@@ -21,11 +21,11 @@ Trackmyself| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-bmLibraryTracking| bmLibraryTracking|1GIpX-loeYv2swfT2mcYCUvduAXtoYdzenzIYXt4M_1YLmlN7eMrO1h_P|3|no|[here](libraries/bmLibraryTracking "library source")
+bmLibraryTracking| bmLibraryTracking|1GIpX-loeYv2swfT2mcYCUvduAXtoYdzenzIYXt4M_1YLmlN7eMrO1h_P|7|no|[here](libraries/bmLibraryTracking "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-bmLibraryTracking| bmLibraryTracking|1GIpX-loeYv2swfT2mcYCUvduAXtoYdzenzIYXt4M_1YLmlN7eMrO1h_P|3|no|[here](libraries/bmLibraryTracking "library source")
+bmLibraryTracking| bmLibraryTracking|1GIpX-loeYv2swfT2mcYCUvduAXtoYdzenzIYXt4M_1YLmlN7eMrO1h_P|7|no|[here](libraries/bmLibraryTracking "library source")
 ### Enabled Google Services
 no libraries discovered
 ### Scopes required
